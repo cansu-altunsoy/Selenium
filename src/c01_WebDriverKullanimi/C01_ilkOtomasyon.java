@@ -7,6 +7,7 @@ public class C01_ilkOtomasyon {
 
     public static void main(String[] args) throws InterruptedException {
 
+
         // Bir test'e baslamadan once Mutlaka bir WebDriver edinmeliyiz
         // EN ILKEL haliyle WebDriver edinmek icin Java'dan yardim alacagiz
 
