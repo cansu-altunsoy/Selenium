@@ -22,6 +22,7 @@ public class C02_WebDriverMethodlari {
         System.out.println(driver.getCurrentUrl()); // Gidilen sayfanin url'ine gider ====>  https://www.testotomasyonu.com
 
 
+
         //  System.out.println(driver.getPageSource());// Sayfa kaynagini arkada ki kodlari tamamini getirir
 
 
