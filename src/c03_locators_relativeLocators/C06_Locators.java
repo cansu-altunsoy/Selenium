@@ -70,6 +70,7 @@ public class C06_Locators {
                 .click();
 
 
+
         //8- filtreleme sonucunda urun bulunabildigini test edin
         WebElement aramaSonucYaziElement = driver.findElement(By.xpath("//*[@*='product-count-text']"));
 
@@ -101,7 +102,6 @@ public class C06_Locators {
         } else {
             System.out.println("Test Faild");
         }
-
 
         //12-Sayfayi kapatin
         Thread.sleep(3000);
