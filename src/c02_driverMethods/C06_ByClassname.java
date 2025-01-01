@@ -11,7 +11,6 @@ import java.util.List;
 
 public class C06_ByClassname {
 
-
     public static void main(String[] args) throws InterruptedException {
 
 
