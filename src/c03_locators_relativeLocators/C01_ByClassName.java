@@ -1,4 +1,4 @@
-package c03;
+package c03_locators_relativeLocators;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
